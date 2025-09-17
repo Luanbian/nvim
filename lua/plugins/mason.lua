@@ -1,7 +1,7 @@
 return {
   -- Mason
   {
-    "williamboman/mason.nvim",
+    "mason-org/mason.nvim",
     opts = {
       ensure_installed = {
         "rust-analyzer",
@@ -58,7 +58,7 @@ return {
   },
   -- Configuração específica do mason-lspconfig
   {
-    "williamboman/mason-lspconfig.nvim",
+    "mason-org/mason-lspconfig.nvim",
     opts = {
       ensure_installed = {
         "rust_analyzer",
