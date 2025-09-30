@@ -2,7 +2,7 @@ return {
   "nvim-neo-tree/neo-tree.nvim",
   opts = {
     window = {
-      position = "left",
+      position = "right",
       width = 30,
       -- remove título laranja e bordas chamativas
       popup = false,
