@@ -3,7 +3,7 @@ return {
   opts = {
     window = {
       position = "right",
-      width = 30,
+      width = 45,
       -- remove título laranja e bordas chamativas
       popup = false,
       mapping_options = {
